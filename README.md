@@ -160,7 +160,6 @@ A: The wallet industry is constantly changing, and takes a LOT of work to assess
 ## Special thanks
 
 - [hansfriese](https://twitter.com/hansfriese) 
-- [carlitox477](https://twitter.com/carlitox477)
 - [0Kage](https://twitter.com/hansfriese)
 - [giovannidisiena.eth](https://twitter.com/giovannidisiena)
 - [Dacian](https://twitter.com/DevDacian)

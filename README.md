@@ -129,7 +129,8 @@ A: The wallet industry is constantly changing, and takes a LOT of work to assess
   - Rotate keys
   - [Physical security](https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md) 
   - Social recovery 
-  - [Wallets](https://walletcompare.xyz/) 
+  - [Wallets](https://wallet.page/wallet/summary/)
+  - [How to multisig](https://howtomultisig.com/)
 ## Transaction Signature Verification
 - [wise signer](https://wise-signer.cyfrin.io/)
 - [safe hash](https://github.com/Cyfrin/safe-hash-rs)
